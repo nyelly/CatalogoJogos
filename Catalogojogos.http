@@ -1,0 +1,6 @@
+@Catalogojogos_HostAddress = http://localhost:5153
+
+GET {{Catalogojogos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,32 @@
+﻿# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio folders
+.vs/
+
+# Others
+*.log
+*.vspscc
+*.vssscc
+*.dbmdl
+*.bak
+*.tmp
+
+# .NET-specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
